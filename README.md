@@ -11,3 +11,5 @@ A **Synchronous FIFO (First-In-First-Out) buffer** is a type of memory queue whe
 - **Clock Synchronization** → Ensures reliable data transfer in a **single clock domain**.  
 
 This project implements a **32-bit width, 8-entry depth synchronous FIFO** using **SystemVerilog**, along with a testbench for simulation and verification.  
+![Image](https://github.com/user-attachments/assets/4a8167dc-ac25-465d-93f3-dd5cc7197873)
+![Screenshot 2025-03-21 091446](https://github.com/user-attachments/assets/39b29aeb-9704-471e-9c63-cbd15010ef17)
